@@ -8,6 +8,10 @@ El proyecto fue creado como práctica para profundizar en React, el manejo del e
 
 ![Vista previa de TaskFlow](public/taskflow-preview.png)
 
+## Demo
+
+- **Aplicación desplegada:** https://taskflowljpr.netlify.app/
+
 ## Funcionalidades
 
 - **Gestión de tareas (CRUD):** crear, visualizar, editar y eliminar tareas.
